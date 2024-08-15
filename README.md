@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on: nothing...
 - 📫 How to reach me: don't 
 - 😄 Pronouns: idk I just got here (meme)
-- ⚡ Fun fact: Corgi Means ‘Dwarf Dog’
+- ⚡ Fun fact: corgi means ‘dwarf dog’
 
 <!---
 ONIGIRI1996/ONIGIRI1996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
