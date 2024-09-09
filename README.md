@@ -1,8 +1,8 @@
 - 🤎 Hi, I’m @ONIGIRI1996
 - 🍂 I’m interested in: Passionate about coding and technology
-- 🎻 I’m currently learning: HTML, CSS, Java, Git, GitHub, React, SQL, Python, Node.js
+- 🎻 I’m currently learning: HTML, CSS, Java, Git, GitHub, React, SQL, Python, Node.js = The Odin Project.
 - 🐻 Not seeking collaborations at the moment
-- 🍪 How to reach me: Github 
+- 🍪 How to reach me: Github
 - 🎧 Fun fact: corgi means ‘dwarf dog’
 
 <!---
