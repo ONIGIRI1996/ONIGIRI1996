@@ -1,9 +1,8 @@
 - 🤎 Hi, I’m @ONIGIRI1996
-- 🍂 I’m interested in: coding
-- 🎻 I’m currently learning: html, css, java, git, github, react, sql, python, node js.
-- 🐻 I’m looking to collaborate on: nothing...
-- 🍪 How to reach me: don't 
-- ☕ Pronouns: idk I just got here (meme)
+- 🍂 I’m interested in: Passionate about coding and technology
+- 🎻 I’m currently learning: HTML, CSS, Java, Git, GitHub, React, SQL, Python, Node.js
+- 🐻 Not seeking collaborations at the moment
+- 🍪 How to reach me: Github 
 - 🎧 Fun fact: corgi means ‘dwarf dog’
 
 <!---
